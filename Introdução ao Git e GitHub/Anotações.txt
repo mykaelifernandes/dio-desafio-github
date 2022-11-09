@@ -1,0 +1,4 @@
+Link para Download do Git:
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
+--> A branch original é a master.
